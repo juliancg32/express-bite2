@@ -1,0 +1,6 @@
+{
+  "name": "Express-Bite: Clean Architecture Cafeteria Ecosystem",
+  "description": "Aplicación de cafetería universitaria de alta concurrencia diseñada bajo Clean Architecture y principios SOLID, con entidades Product y Order, control de stock y sincronización dual móvil-mostrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
